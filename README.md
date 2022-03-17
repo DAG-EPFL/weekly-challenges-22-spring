@@ -1,4 +1,4 @@
-# DAG Weekly Challenges (Spring 20212
+# DAG Weekly Challenges (Spring 2022)
 
 Welcome to the weekly challenges of the <a href="https://dag-epfl.ch/">Data Analytics Group</a> at EPFL!
 
