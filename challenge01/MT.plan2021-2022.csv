@@ -1,0 +1,59 @@
+﻿Code;Course;Teachers;Section;Credits;Period
+MICRO-413;Advanced additive manufacturing technologies;Moser/Brugger J.;GM/MT;3;S
+ME-524;Advanced control systems;Karimi;GM;3;S
+MICRO-570;Advanced machine learning;Billard;MT;4;S
+ENV-542;Advanced satellite positioning;Skaloud/Botteron;SIE/MT;4;S
+MICRO-502;Aerial robotics;Floreano;MT;3;S
+MICRO-443;Analyse de produits et systèmes;Kejik;MT;2;S
+EE-548;Audio;Lissek;EL;3;A
+MICRO-452;Basics of mobile robotics;Mondada;MT;4;A
+BIOENG-445;Biomedical optics;Wagnières;PH;3;A
+MICRO-560;BioMEMS;Renaud;MT;2;A
+MICRO-561;Biomicroscopy I ;Seitz;SV;3;A
+MICRO-562;Biomicroscopy II ;Altug + Seitz A.;SV;4;S
+EE-517;Bio-nano-chip design;Carrara;EL;3;A
+MICRO-510;Commande embarquée de moteurs;Koechli+Koechli/Hodder/Perriard;MT/EL;3;A
+ME-523;Commande non linéaire;Müllhaupt;GM;3;A
+CS-432;Computational motor control;Ijspeert;SV;4;S
+ME-498;Continuous improvement of manufacturing systems;Kaboli;GM;4;S
+MICRO-723;Deep learning for optical imaging;Psaltis/Borhani;EL/MT;2;S
+ENG-466;Distributed intelligent systems ;Martinoli;SIE;5;S
+CS-473;Embedded systems;Beuchat;IN;4;A
+MICRO-515;Evolutionary robotics;Floreano;MT;3;S
+MICRO-514;Flexible bioelectronics ;Lacour S.;MT;4;A
+MICRO-565;Fundamentals & processes for photovoltaic devices;Ballif/Haug;MT;3;S
+BIO-443;Fundamentals of biophotonics;Radenovic;SV;3;S
+ME-416;Fundamentals of computer aided manufacturing;Kyritsis;GM;5;A
+MICRO-553;Haptic human robot interfaces;Bouri;MT;3;S
+EE-320;IC design I;Shoaran;EL;3;A
+MICRO-511;Image processing I;Unser/Van de Ville;MT;3;A
+MICRO-512;Image processing II;Unser/Van de Ville/Liebling/Sage;MT;3;S
+CS-487;Industrial automation;Tournier/Sommer;SC;3;S
+EE-490(g);Lab on app development for tablets and smartphones;Atienza;EL;4;A
+MICRO-566;Large-area electronics: devices and materials;Ballif/Haug/Würsch;MT;3;S
+MICRO-520;Laser microprocessing;Hoffmann;MT;2;S
+MICRO-422;Lasers: theory and modern applications;Moser Ch./Kippenberg;MT/PH;4;A
+MICRO-507;Legged robots;Ijspeert;SV;4;A
+EE-520;Low-power analog IC design;Enz;MT;2;A
+MICRO-401;Machine learning programming;Billard;MT;2;A
+MGT-427;Management de projet et analyse du risque;Wieser;MTE;4;A
+MICRO-501;MEMS practicals I;Bertech/Boero/Brugger/Renaud;MT;2;A
+MICRO-503;MEMS practicals II;Bertech/Boero/Brugger/Renaud;MT;2;S
+MICRO-429;Metrology practicals **;Charbon/Fantner/Bruschini;MT;2;S
+ME-426;Micro/Nanomechanical devices;Villanueva;GM;4;A
+ME-425;Model predictive control;Jones C.;GM;4;A
+CH-413;Nanobiotechnology and biophysics;Fierz;CGC;3;S
+PHYS-501;Nonlinear optics;Roke;MT;3;A
+EE-540;Optical communications;Gaumier;EL;3;A
+MICRO-423;Optics laboratories I ;Psaltis/Pu;MT;3;S
+MICRO-424;Optics laboratories II;Psaltis/Pu;MT;3;A
+MICRO-505;Organic and printed electronics;Briand/Marjanovic/Subramanian;MT;2;S
+MICRO-504;Photonic micro- and nanosystems (pas donné en 2021-2022);Quack;MT;2;S
+EE-440;Photonic systems and technology;Brès;EL;4;S
+PHYS-434;Physics of photonic semiconductor devices;Butté;PH;4;S
+MICRO-435;Quantum and nanocomputing;Charbon/Graziano;MT;6;A
+EE-511;Sensors in medical instrumentation;Aminian/Ionescu;EL;3;S
+MICRO-513;Signal processing for functional brain imaging;Van De Ville;MT;3;S
+EE-585;Space mission design and operations;Nicollier;EL;2;S
+ME-421;System identification;Karimi;GM;3;S
+MICRO-440;Techniques d'assemblage;Chautems;MT;3;S
