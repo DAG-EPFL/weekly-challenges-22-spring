@@ -34,7 +34,7 @@ Here are a few possible options to do the challenges if it's your first time usi
 Google's <a href="https://colab.research.google.com/">Colab</a> is a similar solution to Noto.
 
 1. Sign in to [https://colab.research.google.com](https://colab.research.google.com).
-2. When prompted which file to open, select the *GitHub* tab and enter https://github.com/DAG-EPFL/weekly-challenges-21-fall as the GitHub URL. You will be able to select which notebook you want to open.
+2. When prompted which file to open, select the *GitHub* tab and enter https://github.com/DAG-EPFL/weekly-challenges-22-spring as the GitHub URL. You will be able to select which notebook you want to open.
 3. Start coding!
 4. We will release new challenges every week. In order to get them, open a new notebook and follow the steps above to select an other challenge.
 
