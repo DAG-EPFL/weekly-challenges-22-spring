@@ -19,7 +19,7 @@ Here are a few possible options to do the challenges if it's your first time usi
 <a href="https://noto.epfl.ch">Noto</a> is EPFL's JupyterLab platform that allows teachers and students to use Jupyter notebooks without having to install anything on their computer.
 
 1. Sign in to [https://noto.epfl.ch](https://noto.epfl.ch).
-2. From the Noto main screen, you can clone this repository by selecting Git > Clone and entering https://github.com/DAG-EPFL/weekly-challenges-21-fall.git.
+2. From the Noto main screen, you can clone this repository by selecting Git > Clone and entering https://github.com/DAG-EPFL/weekly-challenges-22-spring.git.
 
 ![Noto step 2](readme_files/noto_step2.png "Noto step 2")
 
