@@ -1,0 +1,49 @@
+{
+    "legend": {
+        "PERIOD ": "Academic year",
+        "UNI": "Higher education institutions",
+        "FIELD": "Group of fields of study",
+        "LEVEL": "Level of study",
+        "SEX": "Sex",
+        "VALUE": "Number of students"
+    }, "uni": {
+        "1": "University of Basel",
+        "2": "University of Bern",
+        "3": "University of Fribourg",
+        "4": "University of Geneva",
+        "5": "University of Lausanne",
+        "6": "University of Lucerne",
+        "7": "University of Neuch\u00e2tel",
+        "8": "University of St. Gallen",
+        "9": "University of Zurich",
+        "10": "Universit\u00e0 della Svizzera italiana",
+        "11": "EPF Lausanne",
+        "12": "ETH Zurich",
+        "99": "Other universities institutions"
+    }, "field": {
+        "1": "Humanities and social Sciences",
+        "2": "Economics",
+        "3": "Law",
+        "4": "Exact and natural Sciences",
+        "5": "Medecine and Pharmacy",
+        "6": "Engineering, Architecture",
+        "7": "Interdisciplinary and Other"
+    }, "sex": {
+        "1": "Male",
+        "2": "Female"
+    }, "city": {
+        "1": "Basel",
+        "2": "Bern",
+        "3": "Fribourg",
+        "4": "Geneva",
+        "5": "Lausanne",
+        "6": "Lucerne",
+        "7": "Neuch\u00e2tel",
+        "8": "Sankt Gallen",
+        "9": "Z\u00fcrich",
+        "10": "Lugano",
+        "11": "Lausanne",
+        "12": "Z\u00fcrich",
+        "99": "Other"
+    }
+}
